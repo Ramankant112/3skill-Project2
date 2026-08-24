@@ -92,7 +92,7 @@ These KPIs provide a quick overview of the overall business performance.
 
 ##  Dashboard
 
-![E-Commerce Sales Dashboard](dashboard.png)
+![E-Commerce Sales Dashboard](Dashboard.png)
 
 The Power BI dashboard contains KPI cards, charts, and interactive slicers to make the analysis easy to understand.
 
